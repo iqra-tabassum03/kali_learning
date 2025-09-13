@@ -1,20 +1,50 @@
 [i] Updating via apt package management (Expect weekly-ish updates): exploitdb
 
-Get:1 http://mirror.kku.ac.th/kali kali-rolling InRelease [41.5 kB]
-Get:2 http://mirror.kku.ac.th/kali kali-rolling/main amd64 Packages [21.2 MB]
-Get:3 http://mirror.kku.ac.th/kali kali-rolling/main amd64 Contents (deb) [51.8 MB]
-Get:3 http://mirror.kku.ac.th/kali kali-rolling/main amd64 Contents (deb) [51.8 MB]
-Get:3 http://mirror.kku.ac.th/kali kali-rolling/main amd64 Contents (deb) [51.8 MB]
-Get:3 http://mirror.kku.ac.th/kali kali-rolling/main amd64 Contents (deb) [51.8 MB]
-Get:3 http://mirror.kku.ac.th/kali kali-rolling/main amd64 Contents (deb) [51.8 MB]
-Get:3 http://mirror.kku.ac.th/kali kali-rolling/main amd64 Contents (deb) [51.8 MB]
+Get:1 http://kali.download/kali kali-rolling InRelease [41.5 kB]
+Get:2 http://kali.download/kali kali-rolling/main amd64 Packages [21.2 MB]
+Get:3 http://kali.download/kali kali-rolling/main amd64 Contents (deb) [51.8 MB]
+Get:3 http://kali.download/kali kali-rolling/main amd64 Contents (deb) [51.8 MB]
+Get:3 http://kali.download/kali kali-rolling/main amd64 Contents (deb) [51.8 MB]
+Get:3 http://kali.download/kali kali-rolling/main amd64 Contents (deb) [51.8 MB]
+Get:3 http://kali.download/kali kali-rolling/main amd64 Contents (deb) [51.8 MB]
+Get:3 http://kali.download/kali kali-rolling/main amd64 Contents (deb) [51.8 MB]
+Get:3 http://kali.download/kali kali-rolling/main amd64 Contents (deb) [51.8 MB]
+Ign:3 http://kali.download/kali kali-rolling/main amd64 Contents (deb)
 Get:3 http://mirror.kku.ac.th/kali kali-rolling/main amd64 Contents (deb) [51.8 MB]
 Reading package lists...
 Building dependency tree...
+Reading state information...
+Upgrading:
+  exploitdb
+
+Summary:
+  Upgrading: 1, Installing: 0, Removing: 0, Not Upgrading: 177
+  Download size: 30.0 MB
+  Space needed: 200 kB / 11.5 GB available
+
+Err:1 http://http.kali.org/kali kali-rolling/main amd64 exploitdb all 20250616-0kali1
+  404  Not Found [IP: 54.39.128.230 80]
+
 [*] apt update finished
 [i] Updating via apt package management (Expect weekly-ish updates): exploitdb-papers
 
-Reading package lists...
+Get:1 http://kali.download/kali kali-rolling InRelease [41.5 kB]
+Get:2 http://kali.download/kali kali-rolling/main amd64 Packages [21.2 MB]
+Get:3 http://kali.download/kali kali-rolling/main amd64 Contents (deb) [51.8 MB]
+Get:3 http://kali.download/kali kali-rolling/main amd64 Contents (deb) [51.8 MB]
+Get:3 http://kali.download/kali kali-rolling/main amd64 Contents (deb) [51.8 MB]
+Get:3 http://kali.download/kali kali-rolling/main amd64 Contents (deb) [51.8 MB]
+Get:3 http://kali.download/kali kali-rolling/main amd64 Contents (deb) [51.8 MB]
+Get:3 http://kali.download/kali kali-rolling/main amd64 Contents (deb) [51.8 MB]
+Get:3 http://kali.download/kali kali-rolling/main amd64 Contents (deb) [51.8 MB]
+Ign:3 http://kali.download/kali kali-rolling/main amd64 Contents (deb)
+Err:3 http://http.kali.org/kali kali-rolling/main amd64 Contents (deb)
+  File has unexpected size (51892240 != 51809739). Mirror sync in progress? [IP: 104.17.253.239 80]
+Err:3 http://http.kali.org/kali kali-rolling/main amd64 Contents (deb)
+  File has unexpected size (51892240 != 51809739). Mirror sync in progress? [IP: 104.17.253.239 80]
+  404  Not Found [IP: 54.39.128.230 80]
+Fetched 41.5 kB in 4s (9699 B/s)
+Reading package lists...Reading package lists...
 Building dependency tree...
 Reading state information...
 Installing:
