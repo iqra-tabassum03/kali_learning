@@ -1,0 +1,1 @@
+Day 3:Processes(htop, ps, top), running scripts, stopping process (kill, Ctrl+C).

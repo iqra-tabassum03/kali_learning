@@ -1,0 +1,12 @@
+uid=1000(space) gid=1000(space) groups=1000(space),4(adm),20(dialout),24(cdrom),25(floppy),27(sudo),29(audio),30(dip),44(video),46(plugdev),100(users),101(netdev),103(scanner),116(bluetooth),121(lpadmin),124(wireshark),133(kaboxer)
+total 36
+-rw-rw-r-- 1 space space 618 Sep 13 05:40 day1_outputs.txt
+-rw-rw-r-- 1 space space  63 Sep 13 05:31 day1.txt
+-rw-rw-r-- 1 space space 232 Sep 13 05:41 day2_outputs.txt
+-rw-rw-r-- 1 space space 104 Sep 13 05:36 day2.txt
+-rw-rw-r-- 1 space space  82 Sep 13 05:38 day3.txt
+-rw-rw-r-- 1 space space  92 Sep 13 05:16 day4.txt
+-rw-rw-r-- 1 space space  89 Sep 13 05:19 day5.txt
+-rw-rw-r-- 1 space space 106 Sep 13 05:20 day6.txt
+-rw-rw-r-- 1 space space 110 Sep 13 05:22 day7.txt
+-rwxr-xr-x 1 space space 0 Sep 13 05:43 tmp_test

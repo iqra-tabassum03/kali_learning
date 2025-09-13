@@ -1,0 +1,8 @@
+;; communications error to 192.168.64.1#53: timed out
+;; communications error to 192.168.64.1#53: timed out
+;; communications error to 192.168.64.1#53: timed out
+;; communications error to fe80::38f9:d3ff:feab:4664%2#53: timed out
+
+; <<>> DiG 9.20.9-1-Debian <<>> github.com ANY
+;; global options: +cmd
+;; no servers could be reached

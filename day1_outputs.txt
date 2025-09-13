@@ -1,0 +1,13 @@
+/home/space/kali_learning
+total 40
+drwxrwxr-x  2 space space 4096 Sep 13 05:40 .
+drwx------ 19 space space 4096 Sep 13 05:33 ..
+-rw-rw-r--  1 space space   26 Sep 13 05:40 day1_outputs.txt
+-rw-rw-r--  1 space space   63 Sep 13 05:31 day1.txt
+-rw-rw-r--  1 space space  104 Sep 13 05:36 day2.txt
+-rw-rw-r--  1 space space    0 Sep 13 05:31 .day2.txt.swp
+-rw-rw-r--  1 space space   82 Sep 13 05:38 day3.txt
+-rw-rw-r--  1 space space   92 Sep 13 05:16 day4.txt
+-rw-rw-r--  1 space space   89 Sep 13 05:19 day5.txt
+-rw-rw-r--  1 space space  106 Sep 13 05:20 day6.txt
+-rw-rw-r--  1 space space  110 Sep 13 05:22 day7.txt

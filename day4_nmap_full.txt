@@ -1,0 +1,10 @@
+# Nmap 7.95 scan initiated Sat Sep 13 05:51:21 2025 as: /usr/lib/nmap/nmap --privileged -sS -sV -sC -O -T4 -oN day4_nmap_full.txt 192.168.64.3
+Nmap scan report for 192.168.64.3
+Host is up (0.000066s latency).
+All 1000 scanned ports on 192.168.64.3 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 0 hops
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sat Sep 13 05:51:23 2025 -- 1 IP address (1 host up) scanned in 2.05 seconds

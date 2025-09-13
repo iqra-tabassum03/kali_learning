@@ -1,0 +1,1 @@
+Day 1:Basic commands(ls, cd, mkdir, touch, whoami, psed, etc.)

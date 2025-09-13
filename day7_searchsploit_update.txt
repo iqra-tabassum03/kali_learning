@@ -1,0 +1,24 @@
+[i] Updating via apt package management (Expect weekly-ish updates): exploitdb
+
+Get:1 http://mirror.kku.ac.th/kali kali-rolling InRelease [41.5 kB]
+Get:2 http://mirror.kku.ac.th/kali kali-rolling/main amd64 Packages [21.2 MB]
+Get:3 http://mirror.kku.ac.th/kali kali-rolling/main amd64 Contents (deb) [51.8 MB]
+Get:3 http://mirror.kku.ac.th/kali kali-rolling/main amd64 Contents (deb) [51.8 MB]
+Get:3 http://mirror.kku.ac.th/kali kali-rolling/main amd64 Contents (deb) [51.8 MB]
+Get:3 http://mirror.kku.ac.th/kali kali-rolling/main amd64 Contents (deb) [51.8 MB]
+Get:3 http://mirror.kku.ac.th/kali kali-rolling/main amd64 Contents (deb) [51.8 MB]
+Get:3 http://mirror.kku.ac.th/kali kali-rolling/main amd64 Contents (deb) [51.8 MB]
+Get:3 http://mirror.kku.ac.th/kali kali-rolling/main amd64 Contents (deb) [51.8 MB]
+Reading package lists...
+Building dependency tree...
+[*] apt update finished
+[i] Updating via apt package management (Expect weekly-ish updates): exploitdb-papers
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Installing:
+  exploitdb-papers
+
+
+[*] apt update finished

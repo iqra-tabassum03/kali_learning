@@ -1,0 +1,1 @@
+Day 7:Vulnerability scanning with nmap(-sV, -sC, -O, -A), identifying vsftpd 2.3.4 exploit with searchsploit.
