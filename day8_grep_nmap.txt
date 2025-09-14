@@ -1,0 +1,10 @@
+/home/space/kali_learning/day4_nmap_sn.txt:1:# Nmap 7.95 scan initiated Sat Sep 13 05:49:46 2025 as: /usr/lib/nmap/nmap --privileged -sn -oN day4_nmap_sn.txt 192.168.64.3/24
+/home/space/kali_learning/day6_nmap.txt:1:# Nmap 7.95 scan initiated Sat Sep 13 13:49:48 2025 as: /usr/lib/nmap/nmap --privileged -sS -sV -sC -O -T4 -oN day6_nmap.txt 192.168.64.4
+/home/space/kali_learning/day6_nmap.txt:97:|   source ident: nmap
+/home/space/kali_learning/day6_nmap.txt:131:OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+/home/space/kali_learning/day4_nmap_full.txt:1:# Nmap 7.95 scan initiated Sat Sep 13 05:51:21 2025 as: /usr/lib/nmap/nmap --privileged -sS -sV -sC -O -T4 -oN day4_nmap_full.txt 192.168.64.3
+/home/space/kali_learning/day4_nmap_full.txt:9:OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+/home/space/kali_learning/day7.txt:1:Day 7:Vulnerability scanning with nmap(-sV, -sC, -O, -A), identifying vsftpd 2.3.4 exploit with searchsploit.
+/home/space/kali_learning/day8_find_list.txt:6:/home/space/kali_learning/day4_nmap_sn.txt
+/home/space/kali_learning/day8_find_list.txt:9:/home/space/kali_learning/day6_nmap.txt
+/home/space/kali_learning/day8_find_list.txt:11:/home/space/kali_learning/day4_nmap_full.txt
